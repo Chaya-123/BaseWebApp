@@ -7,7 +7,8 @@ body {
 }
 
 h1 {
-  font-family: 'Poppins', sans-serif;
+  /*font-family: 'Poppins', sans-serif;*/
+  font-family: Arial, serif;
   font-weight: 700;
   margin-top: 40px;
   font-size: 48px;
